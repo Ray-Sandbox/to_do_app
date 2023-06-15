@@ -78,15 +78,15 @@ body{
 }
 
 .filters span:first-child{
-    margin-left:0;
+    margin-left: 0;
 }
 
 .filters span.active{
-    color:#1e293b;
+    color: #1e293b;
 }
 
 .controls .clear-btn{
-    border:none;
+    border: none;
     opacity: 0.6;
     outline: none;
     color: #fff;
@@ -173,7 +173,7 @@ body{
     position: relative;
 }
 
-.settings :where(i,li){
+.settings :where(i, li){
     cursor: pointer;
 }
 
@@ -231,30 +231,30 @@ body{
         padding: 0 10px;
     }
 
-.wrapper{
-    padding: 20px 0;
-}
+    .wrapper{
+        padding: 20px 0;
+    }
 
-.filters span{
-    margin: 0 5px;
-}
+    .filters span{
+        margin: 0 5px;
+    }
 
-.task-input{
-    padding: 18px 20px;
-}
+    .task-input{
+        padding: 0 20px;
+    }
 
-.controls{
-    padding: 18px 20px;
-}
+    .controls{
+        padding: 18px 20px;
+    }
 
-.task-box{
-    margin-top: 20px;
-    margin-right: 5px;
-    padding: 0 15px 10px 20px;
-}
+    .task-box{
+        margin-top: 20px;
+        margin-right: 5px;
+        padding: 0 15px 10px 20px;
+    }
 
-.task label input{
-    margin-top: 4px;
-}
+    .task label input{
+        margin-top: 4px;
+    }
 
 }
